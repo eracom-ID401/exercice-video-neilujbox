@@ -37,6 +37,17 @@ body {
   margin: 0 0 1rem 0;
   padding: 0;
   justify-content: space-evenly;
-  
+  list-style: none;
 }
 
+a:link{
+  color: white;
+}
+
+a:visited{
+  color: white;
+}
+
+li{
+  background-color: black;
+}
